@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html  lang="en" th:replace="~{base:: parent(~{::#content},~{::#title},~{::script})}">
+<head>
+    <title id="title" data-th-text="${LoggedInUser.name}+' | SCM'" >Profile Page</title>
+</head>
+<body>
+    
+   <div id="content">
+    <div th:if="${loggedInUser}">
+        <div data-th-replace="~{user/sidebar::sidebar}"></div>
+      </div>
+    <div class="sm:pl-64 pt-20" style="height:1000px"  >
+        <div  class="flex items-center justify-center md:pt-32 flex-col">
+           <h1 class="text-5xl"> This is Profile Page</h1>
+          <p>Creating a smart contact manager application involves managing contacts, allowing users to add, edit, view, and delete contacts. We'll build this application using Spring Boot, Thymeleaf, and a database like H2 for simplicity. Below are the key steps and components needed to create this application.</p>
+      
+        </div>   
+       </div>
+   </div>
+
+</body>
+</body>
+    <script>console.log("Profile Page");</script>
+    </body>
+</html>
