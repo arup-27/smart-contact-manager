@@ -12,7 +12,7 @@ A Spring Boot application for managing contacts, allowing users to add, edit, vi
 
 ## Preview
 ### 1. Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](home-page.png)
 
 ### 2. Dark Mode
 ![Dark Mode](screenshots/dark-mode.png)
