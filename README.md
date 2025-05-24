@@ -15,7 +15,7 @@ A Spring Boot application for managing contacts, allowing users to add, edit, vi
 ![Login Page](screenshots/login.png)
 
 ### 2. Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshot (398).png)
 
 ### 3. Contact List
 ![Contact List](screenshots/contact-list.png)
