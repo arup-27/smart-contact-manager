@@ -15,25 +15,25 @@ A Spring Boot application for managing contacts, allowing users to add, edit, vi
 ![Home Page](home-page.png)
 
 ### 2. Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+![Dark Mode](dark-mode.png)
 
 ### 3. Signup Page
-![Signup Page](screenshots/signup-page.png)
+![Signup Page](signUp-page.png)
 
 ### 4. Login Page
-![Login Page](screenshots/login-page.png)
+![Login Page](login-page.png)
 
 ### 5. Login Successful
-![Login Successful](screenshots/login-successfull.png)
+![Login Successful](login-successfull.png)
 
 ### 6. Contact Page
-![Contact Page](screenshots/contact-page.png)
+![Contact Page](contact-page.png)
 
 ### 7. Profile Page
-![Profile Page](screenshots/profile-page.png)
+![Profile Page](profile-page.png)
 
 ### 8. Backend Page
-![Backend Page](screenshots/backend-page.png)
+![Backend Page](backend-page.png)
 
 
 ## Technologies Used
