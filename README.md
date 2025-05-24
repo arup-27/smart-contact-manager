@@ -11,20 +11,31 @@ A Spring Boot application for managing contacts, allowing users to add, edit, vi
 - Responsive UI with Thymeleaf and Tailwind CSS
 
 ## Preview
-### 1. Login Page
-![Login Page](screenshots/login.png)
+### 1. Home Page
+![Home Page](screenshots/home-page.png)
 
-### 2. Dashboard
-![Dashboard](Screenshot (398).png)
+### 2. Dark Mode
+![Dark Mode](screenshots/dark-mode.png)
 
-### 3. Contact List
-![Contact List](screenshots/contact-list.png)
+### 3. Signup Page
+![Signup Page](screenshots/signup-page.png)
 
-### 4. Add Contact
-![Add Contact](screenshots/add-contact.png)
+### 4. Login Page
+![Login Page](screenshots/login-page.png)
 
-### 5. Profile Page
-![Profile Page](screenshots/profile.png)
+### 5. Login Successful
+![Login Successful](screenshots/login-successfull.png)
+
+### 6. Contact Page
+![Contact Page](screenshots/contact-page.png)
+
+### 7. Profile Page
+![Profile Page](screenshots/profile-page.png)
+
+### 8. Backend Page
+![Backend Page](screenshots/backend-page.png)
+
+
 ## Technologies Used
 
 - Java 17
