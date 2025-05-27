@@ -32,7 +32,7 @@ A Spring Boot application for managing contacts, allowing users to add, edit, vi
 ### 7. Profile Page
 ![Profile Page](profile-page.png)
 
-### 8. Backend Page
+### 8. Database Page
 ![Backend Page](backend-page.png)
 
 
